@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B2A1A117-2E27-46F8-B69A-EC3143D56BC6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ios-android-test</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F3B5276609A8439EBD91C36CA116E44C2C896B25</key>
+		<string>https://github.com/Arul15/ios-android-test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios-android-test.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F3B5276609A8439EBD91C36CA116E44C2C896B25</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Arul15/ios-android-test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F3B5276609A8439EBD91C36CA116E44C2C896B25</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F3B5276609A8439EBD91C36CA116E44C2C896B25</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-android-test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
